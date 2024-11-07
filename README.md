@@ -1,4 +1,4 @@
-卡密通（kmt）是一套基于vue开发的v2board主题，这是一套卡密兑换主题，使用场景是通过发卡网或者淘宝等平台售卖卡密，然后在这里兑换，可玩性非常高，你甚至可以招收代理来帮你销售，扩大你的机场业务。
+卡密通（kmt）是一套基于vue开发的v2board主题，这是一套卡密兑换主题，使用场景是v2b后台批量生成套餐兑换码通过发卡网或者淘宝等平台售卖卡密，然后在这里兑换，可玩性非常高，你甚至可以招收代理来帮你销售，扩大你的机场业务。
 
 telegram群组：[http://t.me/qilai_x](http://t.me/qilai_x "http://t.me/qilai_x")
 ### 主要特性
@@ -18,5 +18,9 @@ telegram群组：[http://t.me/qilai_x](http://t.me/qilai_x "http://t.me/qilai_x"
 ![](https://file.uhsea.com/2411/528925415c75c08f2abff7e88815039fQR.png)
 文档中心
 ![](https://file.uhsea.com/2411/a411628a407327c8f5c450c9bb46a1cfML.png)
+手机截图1
+![](https://file.uhsea.com/2411/8619f3e1ef367be5eebcd5f952cffa60M9.png)
+手机截图2
+![](https://file.uhsea.com/2411/bf652b1a76f2ed793e555a91b3af03e093.png)
 
 如需要购买或查看演示请联系七濑telegram：[http://t.me/ieplisthebest](http://t.me/ieplisthebest "http://t.me/ieplisthebest")
